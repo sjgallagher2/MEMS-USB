@@ -1,0 +1,4 @@
+stm32f4xx_it.c:52:6:SVC_Handler	0	static
+stm32f4xx_it.c:65:6:PendSV_Handler	0	static
+stm32f4xx_it.c:78:6:SysTick_Handler	8	static
+stm32f4xx_it.c:100:6:OTG_FS_IRQHandler	0	static

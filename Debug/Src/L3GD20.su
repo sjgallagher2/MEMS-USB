@@ -1,0 +1,14 @@
+L3GD20.c:100:6:L3GD20_SetSPI	8	static
+L3GD20.c:268:6:L3GD20_Write	24	static
+L3GD20.c:74:6:L3GD20_Init	16	static
+L3GD20.c:286:6:L3GD20_Read	32	dynamic
+L3GD20.c:110:6:L3GD20_RebootCmd	16	static
+L3GD20.c:130:6:L3GD20_INT1InterruptConfig	24	static
+L3GD20.c:165:6:L3GD20_INT1InterruptCmd	24	static
+L3GD20.c:187:6:L3GD20_INT2InterruptCmd	24	static
+L3GD20.c:207:6:L3GD20_FilterConfig	24	static
+L3GD20.c:232:6:L3GD20_FilterCmd	24	static
+L3GD20.c:252:9:L3GD20_GetDataStatus	16	static
+L3GD20.c:307:7:L3GD20_GetAngularRateX	24	static
+L3GD20.c:325:7:L3GD20_GetAngularRateY	24	static
+L3GD20.c:345:7:L3GD20_GetAngularRateZ	24	static
